@@ -1,4 +1,4 @@
-Weather Data Visualizer – Kumar
+Weather Data Visualizer – Rajvir
 -----------------------------------
 Project Overview
 This project analyzes real weather data using Python. It includes data loading, cleaning, statistical analysis, grouping, and visualization. The objective is to observe temperature, humidity, pressure, and wind patterns over several years.
@@ -47,4 +47,5 @@ Output Files
 - combined_plots.png
 - report.md
 Author
+
 Rajvir
