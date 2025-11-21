@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Sweater weather",
+        "author": "Ruskin Bond",
+        "isbn": "12233",
+        "status": "available"
+    },
+    {
+        "title": "chetan bhagat",
+        "author": "chetan bhagat",
+        "isbn": "21525",
+        "status": "available"
+    },
+    {
+        "title": "Red brick",
+        "author": "IIM India ",
+        "isbn": "12325",
+        "status": "available"
+    }
+]
